@@ -1,0 +1,123 @@
+[
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s5x2,g1,199.87ms,350-1100)_20240802_181211.jpg",
+    "tags": [
+      "indoor, shopping and dining, great hall"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s10x2,g1,99.88ms,350-1100)_20240802_183557.jpg",
+    "tags": [
+      "indoor, shopping and dining, great hall"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s10x2,g1,99.88ms,350-1100)_20240802_182717.jpg",
+    "tags": [
+      "indoor, shopping and dining, great hall"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s4x2,g1,249.88ms,350-1100)_20240802_184308.jpg",
+    "tags": [
+      "indoor, shopping and dining, great hall"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s5x2,g1,199.87ms,350-1100)_20240802_181941.jpg",
+    "tags": [
+      "bench"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s4x2,g1,249.88ms,350-1100)_20240802_184743.jpg",
+    "tags": [
+      "indoor,great hall"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s10x2,g1,99.88ms,350-1100)_20240802_182229.jpg",
+    "tags": [
+      "indoor",
+      "great hall",
+      "shopping and dining"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240802_181535.jpg",
+    "tags": [
+      "indoor",
+      "shopping and dining",
+      "backstage"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s10x2,g1,99.88ms,350-1100)_20240802_182949.jpg",
+    "tags": [
+      "indoor",
+      "workplace",
+      "chemistry lab"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s5x2,g1,199.87ms,350-1100)_20240802_180648.jpg",
+    "tags": [
+      "indoor",
+      "shopping and dining,great hall"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s5x2,g1,199.87ms,350-1100)_20240802_183424.jpg",
+    "tags": [
+      "indoor",
+      "workplace",
+      "workshop"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s25x2,g1,39.87ms,350-1100)_20240802_180938.jpg",
+    "tags": [
+      "outdoor man-made",
+      "commercial buildings,shops,markets,cities,and towns",
+      "street"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-c-Scan-d(s10x2,g1,99.88ms,350-1100)_20240802_182423.jpg",
+    "tags": [
+      "outdoor man-made",
+      "commercial buildings,shops,markets,cities,and towns",
+      "alley"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/road/rgb-Scan-d(s4x2,g1,249.88ms,350-1100)_20240802_183911.jpg",
+    "tags": [
+      "outdoor man-made",
+      "commercial buildings,shops,markets,cities,and towns",
+      "street"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/dendai-5-1/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240802_185915.jpg",
+    "tags": [
+      "indoor",
+      "workplace",
+      "waiting room"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/dendai-5-1/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240802_185356.jpg",
+    "tags": [
+      "indoor",
+      "workplace",
+      "corridor"
+    ]
+  },
+  {
+    "data_name": "static/images/RGB-08022024/dendai-5-1/rgb-Scan-d(s18x2,g50,55.44ms,350-1100)_20240802_185626.jpg",
+    "tags": [
+      "False"
+    ]
+  }
+]
