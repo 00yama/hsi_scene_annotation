@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Annotation Tool</title>
+    <link href="{{ url_for('static', filename='css/output.css') }}" rel="stylesheet">
+</head>
+
+<body class="bg-gradient-to-r from-purple-100 via-pink-100 to-blue-100 text-gray-900 font-sans">
+    <div class="container mx-auto p-8">
+        <h1
+            class="text-5xl font-extrabold mb-8 text-center bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 text-transparent bg-clip-text">
+            画像アノテーションツール
+        </h1>
+
+
+        <div id="image-container" class="flex justify-center mb-6">
+            <img id="image" src="" alt="Image" class="max-w-md border border-gray-300 shadow-md rounded-lg">
+        </div>
+
+        <!-- add -->
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-xl">Indoor</p>
+            <p class="text-gray-700 text-lg text-left">shopping and dining</p>
+        </div>
+        
+         <!-- add -->
+         <!-- <div class="mb-4 text-center border border-gray-400 rounded-lg p-4"> -->
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText1')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText1" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" 
+                data-tag="indoor/shopping and dining/great hall">
+                大広間</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/shopping and dining/backstage">
+                舞台裏</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">workplace</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText2')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText2" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" 
+                data-tag="indoor/workplace/biology laboratory">
+                生物学研究室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/chemistry lab">
+                化学実験室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/computer room">
+                コンピュータ室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/conference hall">
+                カンファレンスホール</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/conference room">
+                会議室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/control room">
+                管制室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/corridor">
+                廊下</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/elevator door">
+                エレベータのドア</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/elevator interior">
+                エレベータ内部</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/escalator indoor">
+                屋内のエスカレータ</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/lobby">
+                ロビー</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/machine shop">
+                工作室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/office">
+                オフィス</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/office cubicles">
+                仕切りがあるオフィス</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/reading room">
+                閲覧室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/reception">
+                受付</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/restroom indoor">
+                化粧室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/staircase">
+                階段</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/waiting room">
+                待合室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/workroom">
+                作業室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/workplace/workshop">
+                ワークショップ</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">home or hotel</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText3')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText3" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600" 
+                data-tag="indoor/home or hotel/living room">
+                リビング</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/home or hotel/kichen">
+                台所</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/home or hotel/kichenette">
+                簡易台所</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">transportation</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText4')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText4" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/transportation/elecator lobby">
+                エレベーターロビー</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/transportation/entrance hall">
+                エントランスホール</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/transportation/skywalk indoor">
+                連絡通路内</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">sports and leisure</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText5')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText5" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/sports and leisure/athletic field indoor">
+                屋内運動場</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/sports and leisure/ballroom">
+                多目的ホール</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">cultural</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText6')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText6" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/cultural/auditorium">
+                講堂</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/cultural/lecture room">
+                講義室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="indoor/cultural/library indoor">
+                図書室</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-xl">Outdoor natural</p>
+            <p class="text-gray-700 text-lg text-left">water,ice,snow</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText7')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText7" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor natural/water,ice,snow/river">
+                川</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">forest,field,jungle</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText8')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText8" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor natural/forest,field,jungle/cottage garden">
+                コテージガーデン</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-xl">Outdoor man-made</p>
+            <p class="text-gray-700 text-lg text-left">sports fields,parks,leisure spaces</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText9')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText9" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/sports field,parks,leisure spaces/park">
+                公園</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/sports field,parks,leisure spaces/athletic field outdoor">
+                屋外運動場</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">transportation</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText10')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText10" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/bicycle racks">
+                駐輪場</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/bridge">
+                橋</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/carport outdoor">
+                ガレージ</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/commercial buildings,shops,markets,cities,and towns/crosswalk">
+                横断歩道</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/escalator outdoor">
+                屋外のエスカレータ</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/field road">
+                フィールドロード</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/outdoor natural/forest,field,jungle/forest road">
+                フォレストロード</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/houses,cabins,gardens,and farms/gate">
+                ゲート</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/overpass">
+                高架橋</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/parking lot">
+                駐車場</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/pedestrian overpass indoor">
+                歩行者連絡通路内</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/transportation/pedestrian overpass outdoor">
+                歩行者連絡通路の外観</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">cultural or historical</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText11')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText11" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/cultural or historical/campus">
+                キャンパス</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/cultural or historical/commercial buildings,shops,markets,cities,and towns/plaza">
+                プラザ</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/cultural or historical/tower">
+                タワー</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">houses,cabins,gardens,and farms</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText12')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText12" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/houses,cabins,gardens,and farms/yard">
+                庭</button>
+            </div>
+        </div>
+
+        <div class="text-center mb-4">
+            <p class="text-gray-700 text-lg text-left">commercial buildings,shops,markets,cities,and towns</p>
+        </div>
+
+        <div class="mb-4 text-center">
+            <button onclick="toggleAdditionalText('additionalText13')" class="text-blue-500 underline mt-2">▼表示/非表示</button>
+            <div id = "additionalText13" class="grid grid-cols-5 gap-2 hidden">
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/alley">
+                路地</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/apartment building outdoor">
+                アパートの外観</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/balcony exterior">
+                バルコニー外観</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/building facade">
+                ビル外観</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/building complex">
+                複合施設</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/city">
+                市街</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/convenience store outdoor">
+                コンビニ</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/doorway outdoor">
+                玄関</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/downtown">
+                繁華街，下町</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/motel">
+                モーテル</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/office building">
+                オフィスビル</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/police station">
+                交番</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/restroom outdoor">
+                屋外化粧室</button>
+                <button class="tag-button bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
+                data-tag="outdoor man-made/commercial buildings,shops,markets,cities,and towns/street">
+                ストリート</button>
+            </div>
+        </div>
+
+        <script>
+            function toggleAdditionalText(id){
+                const additionalText = document.getElementById(id);
+                additionalText.classList.toggle("hidden");
+            }
+        </script>
+
+        <style>
+            .hidden{
+                display: none;
+            }
+        </style>
+
+        <div class="flex justify-center mb-6">
+            <input type="text" id="other-tag-input" class="p-2 border border-gray-300 rounded-lg w-64"
+                placeholder="その他のタグを入力" />
+            <button id="add-other-tag-btn"
+                class="ml-2 p-2 bg-green-500 text-white rounded-lg hover:bg-green-600">追加</button>
+        </div>
+
+        <div id="annotation-form" class="flex justify-center mb-4 space-x-2">
+            <input type="text" id="tags-input" class="p-2 border border-gray-300 rounded-lg w-96" readonly
+                placeholder="ここにタグが追加されます" />
+            <button id="reset-btn" class="p-2 ml-2 bg-gray-500 text-white rounded-lg hover:bg-gray-600">リセット</button>
+        </div>
+
+        <div id="error-message" class="text-red-500 text-center text-xl m-4"></div>
+
+        <div class="flex justify-center space-x-4">
+            <button id="reject-btn" class="p-2 bg-red-500 text-white rounded-lg hover:bg-red-600">没データ</button>
+            <button id="next-btn" class="p-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">次のデータへ</button>
+        </div>
+    </div>
+
+    <script>
+        const images = JSON.parse('{{ image_files | tojson | safe }}');
+        let currentIndex = 0;
+        let tagsArray = [];
+
+        window.onload = function () {
+            // document.getElementById('image').src = `/static/images/${images[currentIndex]}`;
+            document.getElementById('image').src = `/${images[currentIndex]}`;
+        };
+        document.querySelectorAll('.tag-button').forEach(button => {
+            button.addEventListener('click', function () {
+                const tags = this.getAttribute('data-tag').split('/');
+                tags.forEach(tag => {
+                    const trimmedTag = tag.trim(); // 余分なスペースを削除
+                    if (!tagsArray.includes(trimmedTag)) {
+                        tagsArray.push(trimmedTag);
+                    }
+                });
+                updateTagsInput();
+            });
+        });
+
+        document.getElementById('add-other-tag-btn').addEventListener('click', function () {
+            const otherTag = document.getElementById('other-tag-input').value.trim();
+            const errorMessage = document.getElementById('error-message');
+            errorMessage.textContent = '';
+
+            const englishOnlyRegex = /^[a-zA-Z]+$/;
+
+            if (!englishOnlyRegex.test(otherTag)) {
+                errorMessage.textContent = 'その他のタグはアルファベットのみ使用できます。';
+            } else if (otherTag !== otherTag.toLowerCase()) {
+                errorMessage.textContent = 'タグは小文字で入力してください。';
+            } else if (otherTag.endsWith('s')) {
+                errorMessage.textContent = 'タグは単数形で入力してください。';
+            } else if (otherTag && !tagsArray.includes(otherTag)) {
+                tagsArray.push(otherTag);
+                updateTagsInput();
+                document.getElementById('other-tag-input').value = '';
+            }
+        });
+
+        document.getElementById('reset-btn').addEventListener('click', function () {
+            tagsArray = [];
+            updateTagsInput();
+        });
+
+        function updateTagsInput() {
+            document.getElementById('tags-input').value = tagsArray.join(', ');
+        }
+
+        document.getElementById('reject-btn').addEventListener('click', function () {
+            const confirmation = confirm('本当に没データですか？');
+            if (confirmation) {
+                tagsArray = ['False'];
+                proceedToNext();
+            }
+        });
+
+        document.getElementById('next-btn').addEventListener('click', function () {
+            const errorMessage = document.getElementById('error-message');
+            if (tagsArray.length === 0) {
+                errorMessage.textContent = 'タグを少なくとも1つ選択してください。';
+            } else {
+                proceedToNext();
+            }
+        });
+
+        async function proceedToNext() {
+            const currentImage = images[currentIndex];
+            const errorMessage = document.getElementById('error-message');
+            errorMessage.textContent = '';
+
+            const response = await fetch('/save_annotations', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    data_name: currentImage,
+                    tags: tagsArray
+                })
+            });
+
+            if (response.ok) {
+                currentIndex++;
+                if (currentIndex >= images.length) {
+                    alert('全ての画像のアノテーションが完了しました！');
+                    return;
+                }
+                // document.getElementById('image').src = `/static/images/${images[currentIndex]}`;
+                document.getElementById('image').src = `/${images[currentIndex]}`;
+                tagsArray = [];
+                updateTagsInput();
+            }
+        }
+    </script>
+
+</body>
+
+</html>
