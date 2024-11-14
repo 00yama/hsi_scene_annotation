@@ -28,7 +28,7 @@ labels, counts = zip(*label_counts)
 plt.figure(figsize=(12, 8))
 plt.barh(labels, counts, color='skyblue')
 plt.xlabel('Count')
-plt.ylabel('Location')
+plt.ylabel('Scene label')
 plt.title('Tag Counts by Location')
 plt.gca().invert_yaxis()  # ラベルが上から表示されるように反転
 plt.tight_layout()
