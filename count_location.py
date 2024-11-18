@@ -44,8 +44,19 @@ def plot_pie_chart(indoor_count, outdoor_count):
     colors = ['#66b3ff', '#99ff99']  # 色のカスタマイズ
     explode = (0.1, 0)  # Outdoorを少し強調表示
 
+    # ラベルに割合とカウント数を追加
+    total = sum(counts)
+    label_with_counts = [
+        f'{label}\n{count} ({count / total:.1%})'
+        for label, count in zip(labels, counts)
+    ]
+
     plt.figure(figsize=(6, 6))
-    plt.pie(counts, labels=labels, autopct='%1.1f%%', startangle=90, colors=colors, explode=explode)
+    # plt.pie(counts, labels=labels, autopct='%1.1f%%', startangle=90, colors=colors, explode=explode)
+    plt.pie(
+        counts, labels=label_with_counts, autopct=None, startangle=90,
+        colors=colors, explode=explode
+    )
     plt.title('Count location')
     plt.show()
 
