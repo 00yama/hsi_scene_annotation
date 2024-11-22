@@ -11,7 +11,7 @@ def count_indoor_outdoor(json_files):
     outdoor_count = 0
     
     # dendai関連 outdoor判定に使うキーワード
-    outdoor_keywords = ["roofgarden", "connecter", "around", "plaza"]
+    outdoor_keywords = ["roofgarden", "connecter", "around", "plaza","outside"]
 
     for file_path in json_files:
         with open(file_path, 'r', encoding='utf-8') as file:
