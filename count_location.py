@@ -57,7 +57,7 @@ def plot_pie_chart(indoor_count, outdoor_count):
         counts, labels=label_with_counts, autopct=None, startangle=90,
         colors=colors, explode=explode
     )
-    plt.title('Count location')
+    # plt.title('Count location')
     plt.show()
 
 

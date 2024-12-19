@@ -35,6 +35,6 @@ def merge_json_files(directory, output_file):
 
 # 実行例
 input_directory = "./"  # JSONファイルが保存されているフォルダのパス
-output_json = "merged-data.json"          # 保存するファイル名
+output_json = "data.json"          # 保存するファイル名
 
 merge_json_files(input_directory, output_json)
