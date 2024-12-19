@@ -1,7 +1,7 @@
 import os
 
 # 対象のディレクトリを指定
-base_dir = "/Users/RINKAOYAMA/Library/CloudStorage/Box-Box/033Lab_share/members/21aj/ToyoshigeHATA/HSI-RGB"  # フォルダのパスを指定
+base_dir = "./yourpath"  # フォルダのパスを指定
 indoor = 0
 outdoor = 0
 outdoor_keywords = ["roofgarden", "connecter", "around", "plaza", "outside"]
