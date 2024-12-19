@@ -1,0 +1,926 @@
+[
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_112208.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_110423.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_111700.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240830_113323.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-c-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_103757.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_114051.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_111934.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240830_112443.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_111100.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_104144.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_112718.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_113559.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_110657.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240830_113754.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_104625.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_105457.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240830_112349.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_113156.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_104349.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s60x2,g50,16.55ms,350-1100)_20240830_112417.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_104752.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_111332.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_105225.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s4x2,g50,249.88ms,350-1100)_20240830_105745.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-2F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240830_113248.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101734.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101250.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100548.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100412.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_095727.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_102719.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_095521.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101424.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101039.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_102930.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101600.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_095909.jpg",
+        "tags": [
+            "indoor",
+            "home or hotel",
+            "kitchenette"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-c-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_095210.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100902.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "reception"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100043.jpg",
+        "tags": [
+            "indoor",
+            "home or hotel",
+            "kitchenette"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_102053.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_103141.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100727.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_100232.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_101909.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_102408.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_095338.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-11F/rgb-Scan-d(s7x2,g50,142.74ms,350-1100)_20240830_102231.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_093021.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240830_090827.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092129.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090317.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "restroom indoor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_094651.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_094445.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091618.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_092907.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091736.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091318.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_094030.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091052.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092017.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_093822.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_093131.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_094235.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090940.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092424.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091846.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091503.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_093555.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_093343.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-c-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_084533.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090433.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090544.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s3x2,g50,333.21ms,350-1100)_20240830_085920.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092240.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092645.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090656.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_092534.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_091202.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-12F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240830_090122.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-12F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124036.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125129.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_123831.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125954.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124243.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124452.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124917.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-c-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_123622.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125747.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125541.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_124703.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_130159.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08302024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240830_125334.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    }
+]

@@ -1,0 +1,2903 @@
+[
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-2F/rgb-Scan-d(s12x2,g50,79.87ms,350-1100)_20240825_133742.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-2F/rgb-Scan-d(s12x2,g50,79.87ms,350-1100)_20240825_134115.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_134404.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-2F/rgb-Scan-d(s12x2,g50,79.87ms,350-1100)_20240825_133842.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-2F/rgb-Scan-d(s12x2,g50,79.87ms,350-1100)_20240825_133957.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-2F/rgb-Scan-d(s12x2,g50,79.87ms,350-1100)_20240825_133639.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-2F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_134651.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-2F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-11F/rgb-Scan-d(s12x2,g50,83.22ms,350-1100)_20240825_162613.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-11F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240825_162451.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-11F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240825_163212.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-11F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240825_162509.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-11F/rgb-c-Scan-d(s12x2,g50,83.22ms,350-1100)_20240825_162825.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-11F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240825_163036.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-11F/rgb-Scan-d(s60x2,g50,16.55ms,350-1100)_20240825_163322.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-11F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s25x2,g1,39.87ms,350-1100)_20240825_161423.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-c-Scan-d(s80x2,g1,12.38ms,350-1100)_20240825_152722.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s25x2,g1,39.87ms,350-1100)_20240825_161224.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "campus"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240825_153314.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "campus"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s25x2,g1,39.87ms,350-1100)_20240825_161346.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "campus"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_153613.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s16x2,g1,62.38ms,350-1100)_20240825_161841.jpg",
+        "tags": [
+            "outdoor man-made",
+            "transportation",
+            "commercial buildings,shops,markets,cities,and towns",
+            "crosswalk"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240825_161748.jpg",
+        "tags": [
+            "outdoor man-made",
+            "transportation",
+            "houses,cabins,gardens,and farms",
+            "gate"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s100x2,g1,9.88ms,350-1100)_20240825_155035.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_153428.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s69x2,g1,14.38ms,350-1100)_20240825_155632.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240825_154334.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_160552.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "campus"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240825_153117.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s40x2,g1,24.88ms,350-1100)_20240825_160054.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240825_153815.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s25x2,g1,39.87ms,350-1100)_20240825_161454.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_160722.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "campus"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s12x2,g1,83.22ms,350-1100)_20240825_161946.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "campus"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s25x2,g1,39.87ms,350-1100)_20240825_161523.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_160331.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154945.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240825_160810.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s40x2,g1,24.88ms,350-1100)_20240825_155539.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_160640.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240825_154426.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154559.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154820.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s60x2,g1,16.55ms,350-1100)_20240825_155131.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_160444.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240825_155730.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240825_154401.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_160529.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s60x2,g1,16.55ms,350-1100)_20240825_155100.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240825_160749.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154620.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240825_153844.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154743.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154958.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_153730.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240825_161043.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s20x2,g1,49.88ms,350-1100)_20240825_160202.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s46x2,g1,21.61ms,350-1100)_20240825_160957.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154633.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s35x2,g1,28.45ms,350-1100)_20240825_155849.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240825_153511.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s35x2,g1,28.45ms,350-1100)_20240825_155928.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s25x2,g1,39.87ms,350-1100)_20240825_161129.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_153656.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240825_154123.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s40x2,g1,24.88ms,350-1100)_20240825_155324.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s40x2,g1,24.88ms,350-1100)_20240825_155357.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240825_155702.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_153355.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240825_154030.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240825_153945.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240825_153044.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s46x2,g1,21.61ms,350-1100)_20240825_160931.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240825_154307.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "commercial buildings,shops,markets,cities,and towns",
+            "plaza"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s50x2,g1,19.88ms,350-1100)_20240825_154224.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "commercial buildings,shops,markets,cities,and towns",
+            "plaza"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154654.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "commercial buildings,shops,markets,cities,and towns",
+            "plaza"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154644.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s15x2,g1,66.54ms,350-1100)_20240825_153211.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_153409.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154718.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s60x2,g1,16.55ms,350-1100)_20240825_155159.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240825_161553.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "commercial buildings,shops,markets,cities,and towns",
+            "plaza"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s30x2,g1,33.21ms,350-1100)_20240825_152941.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_153636.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "commercial buildings,shops,markets,cities,and towns",
+            "plaza"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s70x2,g1,14.17ms,350-1100)_20240825_160411.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_155015.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s35x2,g1,28.45ms,350-1100)_20240825_155815.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "commercial buildings,shops,markets,cities,and towns",
+            "plaza"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_154732.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s80x2,g1,12.38ms,350-1100)_20240825_160840.jpg",
+        "tags": [
+            "outdoor man-made",
+            "cultural or historical",
+            "commercial buildings,shops,markets,cities,and towns",
+            "plaza"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-forestplaza/rgb-Scan-d(s60x2,g1,16.55ms,350-1100)_20240825_155239.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-forestplaza",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240825_132153.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s12x2,g50,79.87ms,350-1100)_20240825_133154.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_132033.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240825_132704.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s15x2,g50,66.54ms,350-1100)_20240825_132517.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_131934.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "apartment building outdoor"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_132024.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s12x2,g50,79.87ms,350-1100)_20240825_133041.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_132924.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_131945.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s12x2,g50,79.87ms,350-1100)_20240825_133320.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-c-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_131747.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_132237.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s15x2,g50,66.54ms,350-1100)_20240825_132418.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_131958.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_132049.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240825_131851.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-3F/rgb-Scan-d(s15x2,g50,66.54ms,350-1100)_20240825_132324.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-3F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s3x2,g50,333.21ms,350-1100)_20240825_113204.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_114732.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_111422.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_100955.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240825_101952.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240825_100820.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_103146.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_103620.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_113855.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_102932.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240825_094350.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240825_101122.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_094812.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_100232.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_095117.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_100636.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_094623.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240825_101428.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_110640.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_105137.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s35x2,g50,28.45ms,350-1100)_20240825_094515.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s70x2,g50,14.17ms,350-1100)_20240825_110735.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_114556.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_112221.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_100947.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s3x2,g50,333.21ms,350-1100)_20240825_113605.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s22x2,g50,45.34ms,350-1100)_20240825_095836.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_094747.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_102153.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240825_094418.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_104202.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s70x2,g50,14.17ms,350-1100)_20240825_103951.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_100806.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_104715.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_095410.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_100921.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_094652.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_114328.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_111912.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s22x2,g50,45.34ms,350-1100)_20240825_100042.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_104927.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240825_101208.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240825_094246.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_094858.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_094644.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_100857.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_100321.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_101850.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_095402.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_104421.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_101032.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_102558.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s80x2,g50,12.38ms,350-1100)_20240825_101921.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_102319.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_094709.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s22x2,g50,45.34ms,350-1100)_20240825_095922.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_113953.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240825_101226.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_110956.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240825_101501.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_110229.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240825_094320.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s25x2,g50,39.87ms,350-1100)_20240825_094446.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_101328.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_101301.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_095200.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_101522.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_101015.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240825_094557.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_102717.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_100749.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240825_101444.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_100849.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240825_100109.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_100929.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_095026.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s3x2,g50,333.21ms,350-1100)_20240825_112826.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_101253.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240825_101149.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_113802.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_095233.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_095657.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_094701.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_105809.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s7x2,g50,133.21ms,350-1100)_20240825_112429.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_094920.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-c-Scan-d(s25x2,g50,39.87ms,350-1100)_20240825_094152.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_105559.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_100907.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_110020.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_101902.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g1,7.45ms,350-1100)_20240825_104359.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "building facade"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_103843.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "restroom indoor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_101309.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_101728.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_100758.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s130x2,g50,7.58ms,350-1100)_20240825_101005.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_100500.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_094717.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_105348.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_095353.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_114039.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_094951.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_111207.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_094611.jpg",
+        "tags": [
+            "outdoor natural",
+            "forest,field,jungle",
+            "cottage garden"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s22x2,g50,45.34ms,350-1100)_20240825_100000.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_095051.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_111629.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_100410.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_100729.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s45x2,g50,22.10ms,350-1100)_20240825_101356.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s35x2,g50,28.45ms,350-1100)_20240825_113714.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_103358.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "elevator lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_095546.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_095320.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_102029.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_100548.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s80x2,g50,12.38ms,350-1100)_20240825_114759.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s22x2,g50,45.34ms,350-1100)_20240825_095747.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_095257.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s32x2,g50,31.14ms,350-1100)_20240825_094834.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_110445.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "corridor"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_114648.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s40x2,g50,24.88ms,350-1100)_20240825_101059.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-6F/rgb-Scan-d(s35x2,g50,28.45ms,350-1100)_20240825_094537.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-6F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_140238.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "lobby"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240825_141738.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_151415.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "restroom indoor"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_150957.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_145501.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_141457.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_151108.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s6x2,g50,166.55ms,350-1100)_20240825_142244.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_143108.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_142954.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_140558.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "waiting room"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240825_141340.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s50x2,g50,19.88ms,350-1100)_20240825_140823.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_143859.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240825_141305.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_140348.jpg",
+        "tags": [
+            "False"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s15x2,g50,66.54ms,350-1100)_20240825_143338.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_145946.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240825_151917.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s15x2,g50,66.54ms,350-1100)_20240825_150054.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s12x2,g50,83.22ms,350-1100)_20240825_142628.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-c-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_135131.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_143736.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_135417.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s12x2,g50,83.22ms,350-1100)_20240825_140946.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s6x2,g50,166.55ms,350-1100)_20240825_142431.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s100x2,g50,9.88ms,350-1100)_20240825_140734.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s50x2,g50,19.88ms,350-1100)_20240825_140841.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_143225.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s132x2,g50,7.45ms,350-1100)_20240825_143721.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_140128.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_145032.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s16x2,g50,62.38ms,350-1100)_20240825_141558.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s6x2,g50,166.55ms,350-1100)_20240825_140016.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_152051.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s15x2,g50,66.54ms,350-1100)_20240825_143431.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_144009.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_150721.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_140708.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_150536.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_143644.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240825_142048.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_151728.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_145247.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_144825.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_150806.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s50x2,g50,19.88ms,350-1100)_20240825_140754.jpg",
+        "tags": [
+            "outdoor man-made",
+            "commercial buildings,shops,markets,cities,and towns",
+            "street"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_150424.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_144135.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_145735.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_144403.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "staircase"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s10x2,g50,99.88ms,350-1100)_20240825_150226.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s3x2,g50,333.21ms,350-1100)_20240825_135743.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240825_141125.jpg",
+        "tags": [
+            "indoor",
+            "workplace",
+            "reception"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s30x2,g50,33.21ms,350-1100)_20240825_151832.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_144612.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s8x2,g50,124.88ms,350-1100)_20240825_141913.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s5x2,g50,199.87ms,350-1100)_20240825_151627.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s12x2,g50,83.22ms,350-1100)_20240825_142730.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    },
+    {
+        "data_name": "static/images/RGB-08252024/dendai-5-1F/rgb-Scan-d(s20x2,g50,49.88ms,350-1100)_20240825_150630.jpg",
+        "tags": [
+            "indoor",
+            "transportation",
+            "entrance hall"
+        ],
+        "place": "dendai-5-1F",
+        "status": "not review"
+    }
+]
